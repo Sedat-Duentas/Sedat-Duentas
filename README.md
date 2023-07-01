@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there, I'm Sedat! 👋
 
-<!--
-**Sedat-Duentas/Sedat-Duentas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a focus on Kotlin and Swift. Here on GitHub, I share my projects and experiences.
 
-Here are some ideas to get you started:
+- 💼 I have learned Kotlin and created a project using it.
+- 💼 Currently, I'm learning Swift and will also create a project using it.
+- 🌱 I'm always interested in learning new technologies and expanding my knowledge.
+- 📫 You can reach me best via email at sedat.duentas90@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Projects:
+
+Geography Quiz App with Kotlin on Flags, Cities, and Currencies ($projectKotlinLink)
+
+Project in Swift coming soon ($projectSwiftLink)
+
+Feel free to follow me here on GitHub to stay updated on my latest projects. If you have any questions or are interested in collaboration, feel free to contact me anytime!
+
