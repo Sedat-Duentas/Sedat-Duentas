@@ -12,7 +12,8 @@ My Projects:
 Geography Quiz App with Kotlin on Flags, Cities, and Currencies 
 ([Android final project](https://github.com/Sedat-Duentas/android-abschluss-Sedat-Duentas))
 
-Geography Quiz App with Swift on Flags, Cities, and Currencies 
+Geography Quiz App with Swift on Flags, Cities, and Currencies
+([iOS final project](https://github.com/Sedat-Duentas/android-abschluss-Sedat-Duentas](https://github.com/Sedat-Duentas/GeoQuiz_IOS.git))
 
 Feel free to follow me here on GitHub to stay updated on my latest projects. If you have any questions or are interested in collaboration, feel free to contact me anytime!
 
